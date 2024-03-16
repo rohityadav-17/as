@@ -9,7 +9,7 @@ public class Emp {
 	String Name = "name";
 	int id = 1;
 	double sal = 100;
-	String address = "address";
+	String address = "address"; 
 
 	public static void main(String[] args) {
 		Emp emp = new Emp(); 
